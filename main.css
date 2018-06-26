@@ -4,11 +4,11 @@
 }
 
 .left-bit {
-   background-color: pink;
+   background-color: rgba(255, 0, 0, .1);
    flex: 0 0 40%;
 }
 
 .right-bit {
-  background-color: blue;
+  background-color: rgba(0, 0, 255, .1);
   flex: 0 0 60%;
 }
