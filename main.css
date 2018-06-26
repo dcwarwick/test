@@ -1,8 +1,14 @@
 
+.container {
+  display: flex;
+}
+
 .left-bit {
    background-color: pink;
+   flex: 0 0 40%;
 }
 
 .right-bit {
   background-color: blue;
+  flex: 0 0 60%;
 }
